@@ -41,7 +41,7 @@ MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002471953287')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+U9ABfC7hu1EyZjU1') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-IS_VERIFY = is_enabled('IS_VERIFY', False)
+IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/akhowtoopenlinks/32")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "")
@@ -53,7 +53,7 @@ SHORTENER_API2 = environ.get("SHORTENER_API2", "")
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", '')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", '')
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "75600"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
 #---------------------------------------------------------------
 #---------------------------------------------------------------
