@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
+    FILE_CAPTION = """<b> @AKMOVIESHUBBACKUP ~{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -208,8 +208,7 @@ User - {}"""
 **🎃 Genres:** {genres}
 **📆 Year:** {year}
 **⭐ Rating:** {rating} / 10
-Bʏ @AKMOVIEBOTZ
-</b>"""
+Bʏ @AKMOVIEBOTZ </b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
 
